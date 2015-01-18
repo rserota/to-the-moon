@@ -23,7 +23,7 @@ var barNames = [
     'The Straggling Haggler',
     'The Savored Favor',
     'The Blasted Caster',
-    
+    'The Ruinous Loon'
 
 
 ]

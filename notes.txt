@@ -6,3 +6,8 @@ boss: yes i'm wretched, not literally a harpy
 
 quest giver: the boss is on fire
 boss: I am literally on fire.
+
+drones: 
+	iNav: hits from air, has tattle/psychopath
+	RJ-DJ: hits ground, has confusion
+	Gen-0: high cost abilities do high singletarget/aoe

@@ -1,0 +1,8 @@
+quest giver: the boss is a beast
+boss: I'm just strong, not literally a beast
+
+quest giver: the boss is a harpy
+boss: yes i'm wretched, not literally a harpy
+
+quest giver: the boss is on fire
+boss: I am literally on fire.

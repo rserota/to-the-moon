@@ -1,19 +1,16 @@
 
 var barNames = [
-    'The Slovenly Governor',
     'The Husky Busker',
     'The Horseless Horseman',
     'The Boasting Toaster',
     'The Sleazy Weasel',
     'The Heaving Beaver',
-    'The Ambling Shambles',
     'The Pampered Pauper',
     'The Dented Rental',
     'The Rusted Puppet',
     'The Bubbling Rubble',
     'The Choosey Loser',
     'The Crusty Mustard',
-    'The Hissing Mishap',
     'The Busy Chiseler',
     'The Comical Llama',
     'The Lauded Fraud',
@@ -23,7 +20,23 @@ var barNames = [
     'The Straggling Haggler',
     'The Savored Favor',
     'The Blasted Caster',
-    'The Ruinous Loon'
-
-
+    'The Recursive Circus',
 ]
+
+var npcNames = [
+    'Perspiring Hireling',
+    'Tireless Iris',
+    'Slovenly Governor',
+    'Hissing Mishap',
+    'Ambling Shambles',
+    'Ruinous Loon',
+    'Cackling Hacker',
+    'Petty Feller',
+    'Swooping Pupil',
+    'Catty Adder',
+    'Sassy Asp',
+]
+
+
+
+

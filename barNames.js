@@ -35,6 +35,8 @@ var npcNames = [
     'Swooping Pupil',
     'Catty Adder',
     'Sassy Asp',
+    'Tricky Kicker',
+    'Rugged Slugger',
 ]
 
 
